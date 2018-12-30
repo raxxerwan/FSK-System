@@ -1,0 +1,2 @@
+*.tex linguist-language=Verilog
+*.v linguist-language=Verilog
